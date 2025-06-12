@@ -3,13 +3,21 @@
 >DTU ECE'28
 
 >C++
+
 >C
+
 >PYTHON
+
 >OPENCV
+
 >Machine Learning/AI
+
 >Learning Unreal Engine
+
 >AirSim
+
 >A Bit Of Webdev
+
 >Core Electronics
 
 >want to learn moreee
