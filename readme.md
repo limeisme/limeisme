@@ -1,8 +1,16 @@
 ### Holaa
 ---
->I am currently 12th passed and finding a collage 
+>DTU ECE'28
 
->Currently learning python
+>C++
+>C
+>PYTHON
+>OPENCV
+>Machine Learning/AI
+>Learning Unreal Engine
+>AirSim
+>A Bit Of Webdev
+>Core Electronics
 
 >want to learn moreee
 
